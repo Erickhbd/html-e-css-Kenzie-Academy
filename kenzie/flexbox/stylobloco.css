@@ -1,0 +1,156 @@
+/*Dinamica do exercício no final do conteúdo*/
+
+* {
+    margin: 0px;
+}
+
+.bloco-1, .bloco-6 {
+    background-color: #65e1cf;
+}
+
+.bloco-2, .bloco-8 {
+    background-color: #ed5761;;
+}
+
+.bloco-3, .bloco-7 {
+    background-color: #79e97d;
+}
+
+.bloco-4 {
+    background-color: #dceec8;
+}
+.bloco-5, .bloco-9 {
+    background-color: #f58f2d;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    padding: 20px;
+}
+
+.bloco-1 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-2 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-3 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-4 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-5 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-6 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-7 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-8 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco-9 {
+    height: 5vh;
+    width: 30%;
+    font: bolder;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Posicionando o box no centro
+Utilize os conceitos de flexbox para centralizar box e chegar no seguinte resultado:
+
+Posicionando box no centro
+
+Crie um elemento html div com a classe 'container'.
+
+Defina uma altura(vh) e uma largura(%) para a div container.
+
+Cria mais 9 elementos div dentro da div container.
+
+Defina uma largura.
+
+Adicione uma cor de fundo para cada div. Se repetir a cor, agrupe os seletores.
+
+Utilize flexbox para alinhar e centralizar os elementos
+
+Na sua folha de estilo, deve conter as seguintes propriedades:
+height
+
+margin
+
+display
+
+flex-direction
+
+flex-wrap
+
+align-items
+
+justify-content
+
+padding
+
+width
+
+background-color
+
+Cores utilizadas:
+
+#65e1cf
+
+#ed5781
+
+#79e97d
+
+#dceec8
+
+#f58f2d*/

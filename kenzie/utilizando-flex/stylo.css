@@ -1,0 +1,38 @@
+/* Analisando por cima, pelo pouco conhecimento que tenho, faltou colocar o "nav" abaixo do logo para concluir.*/
+
+
+header {
+    background: linear-gradient(to left, #00b09b, #96c93d);
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h2 {
+    margin: 0px 
+}
+
+nav {
+    justify-content: flex-start;
+    align-content: flex-end;
+}
+
+header h2 a {
+    text-decoration: underline;
+    color: rgb(31, 31, 197);
+}
+
+li  {
+    padding-left: 0px;
+}
+
+main {
+        height: 1000px;
+        margin: 15px 0px;
+        padding: 0px;
+        background-color: grey;
+        
+}
